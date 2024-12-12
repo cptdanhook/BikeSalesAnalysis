@@ -259,7 +259,7 @@ In this section we will answer our design stage questions:
 What were the overall findings?
 
 1. The most profitable times of the week year on year were during rush hour (17:00 to 18:00), accounting for an average of $1,132 during this time.
-2. Rider Count
+2. Rider Count doubed from 2021 to 2022
 3. Profit from 2021 to 2022 doubled from $3.42M to $7.03M
 4. Autumn is the most profitable season
 5. The vast majority of riders are registered with the scheme
