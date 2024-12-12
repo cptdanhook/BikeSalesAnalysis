@@ -283,7 +283,7 @@ Actionable Insights:
 ## Potential ROI
 What ROI is expected based on the actionable insights?
 
-1.**Increasing the price of the hire by $1 (25%)** would see a large jump in revenue. This should be a focus as the **rider increase from 2021 to 2022 was 806,473 (64.8%)**, showing a clear increase in demand.
+1. **Increasing the price of the hire by $1 (25%)** would see a large jump in revenue. This should be a focus as the **rider increase from 2021 to 2022 was 806,473 (64.8%)**, showing a clear increase in demand.
 
 2. There is a **price elasticity of 2.56** so the price of the hire could be **increased by 10-15% ($5.49 - $5.74)**.
 
