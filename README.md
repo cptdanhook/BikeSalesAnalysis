@@ -222,8 +222,8 @@ In this section we will answer our design stage questions:
 
 | Rank | Year | Rider Count (Millions) |
 |------|------|------------------------|
-| 1    | 2021 |                  |
-| 2    | 2022 |                  |
+| 1    | 2021 | 1.24                   |
+| 2    | 2022 | 2.05                   |
 
 
 
@@ -268,7 +268,7 @@ What were the overall findings?
 
 Actionable Insights:
 
-![Actionable insights](assets/images/actionable_insights)
+![Actionable insights](assets/images/Actionable_insights_bike.png)
 
 1. From 2021 to 2022, there were **more riders** and thus a higher revenue and profit showing that the scheme is growing. **Revenue doubled from $5M to $10M in a year.**
    
