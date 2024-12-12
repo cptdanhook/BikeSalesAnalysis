@@ -26,7 +26,6 @@
   - [Discovery](#Discovery)
   - [Recommendations](#Recommendations)
   - [Potential ROI](#Potential_ROI)
-  - [Course of Action](#Course_of_Action)
 
 
 # Objective
@@ -76,7 +75,7 @@ This should allow our team to identify the top performing periods through sales 
 - What are the initial insight questions the dashboard needs to answer?
 1. What are the most profitable times of the week for the scheme?
 2. Is our rider count growing?
-3. Is Profity increasing from 2021 to 2022?
+3. Is Profit increasing from 2021 to 2022?
 4. What seasons are most profitable?
 5. What proportion of our riders are signed up to the scheme?
 
@@ -91,7 +90,7 @@ Recommended data visuals:
 4. Horizontal bar chart
 5. Vertical Bar chart (time history)
 
-![Dashboard-Mockup](assets/images/dashboard_mockup)
+![Dashboard-Mockup](assets/images/bike_sales_mockup.png)
 
 ## Tools
 
@@ -206,59 +205,52 @@ RETURN ProfitMargin
 In this section we will answer our design stage questions:
 1. What are the most profitable times of the week for the scheme?
 2. Is our rider count growing?
-3. Is Profity increasing from 2021 to 2022?
+3. Is Profit increasing from 2021 to 2022?
 4. What seasons are most profitable?
 5. What proportion of our riders are signed up to the scheme?
 
 ### 1. What are the most profitable times of the week for the scheme?
 
-| Rank | Channel Name         | Subscribers (M) |
-|------|----------------------|-----------------|
-| 1    | NoCopyrightSounds    | 33.60           |
-| 2    | DanTDM               | 28.60           |
-| 3    | Dan Rhodes           | 26.50           |
-| 4    | Miss Katy            | 24.50           |
-| 5    | Mister Max           | 24.40           |
-| 6    | KSI                  | 24.10           |
-| 7    | Jelly                | 23.50           |
-| 8    | Dua Lipa             | 23.30           |
-| 9    | Sidemen              | 21.00           |
-| 10   | Ali-A                | 18.90           |
+| Rank | Time of week              | Average Sales ($)|
+|------|---------------------------|------------------|
+| 1    | Weekday 17:00 to 18:00    | 1,132            |
+| 2    | Weekday 08:00             | 1,054            |
+| 3    | Weekend 12:00 to 17:00    | 1,005            |
 
 
 ### 2. Is our rider count growing?
 
-| Rank | Channel Name    | Videos Uploaded |
-|------|-----------------|-----------------|
-| 1    | GRM Daily       | 14,696          |
-| 2    | Manchester City | 8,248           |
-| 3    | Yogscast        | 6,435           |
+| Rank | Year | Rider Count (Millions) |
+|------|------|------------------------|
+| 1    | 2021 |                  |
+| 2    | 2022 |                  |
 
 
-### 3. Is Profity increasing from 2021 to 2022?
 
-| Rank | Channel Name | Total Views (B) |
-|------|--------------|-----------------|
-| 1    | DanTDM       | 19.78           |
-| 2    | Dan Rhodes   | 18.56           |
-| 3    | Mister Max   | 15.97           |
+### 3. Is Profit increasing from 2021 to 2022?
+
+| Rank | Year | Profit($) |
+|------|------|-----------|
+| 1    | 2021 | 3.42M     |
+| 2    | 2022 | 7.03M     |
 
 
 ### 4. What seasons are most profitable?
 
-| Channel Name | Averge Views per Video (M) |
-|--------------|-----------------|
-| Mark Ronson  | 32.27           |
-| Jessie J     | 5.97            |
-| Dua Lipa     | 5.76            |
+| Rank | Season      | Sales ($) |
+|------|-------------|-----------|
+| 1    | Autumn      | 4.9M      |
+| 2    | Summer      | 4.2M      |
+| 3    | Winter      | 3.9M      |
+| 4    | Spring      | 2.2M      |
 
 ### 5. What proportion of our riders are signed up to the scheme?
 
-| Rank | Channel Name       | Views per Subscriber        |
-|------|-----------------   |---------------------------- |
-| 1    | GRM Daily          | 1185.79                     |
-| 2    | Nickelodeon        | 1061.04                     |
-| 3    | Disney Junior UK   | 1031.97                     |
+| Demographic   | Proportion (%) |
+|---------------|----------------|
+| Registered    | 81.17          |
+| Casual        | 18.83          |
+
 
 
 # Conclusion
@@ -266,12 +258,11 @@ In this section we will answer our design stage questions:
 
 What were the overall findings?
 
-
-
-1. NoCopyrightSOunds, Dan Rhodes and DanTDM are the channnels with the most subscribers in the UK
-2. GRM Daily, Man City and Yogscast are the channels with the most videos uploaded
-3. DanTDM, Dan RHodes and Mister Max are the channels with the most views
-4. Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focus on entertainment and music 
+1. The most profitable times of the week year on year were during rush hour (17:00 to 18:00), accounting for an average of $1,132 during this time.
+2. Rider Count
+3. Profit from 2021 to 2022 doubled from $3.42M to $7.03M
+4. Autumn is the most profitable season
+5. The vast majority of riders are registered with the scheme
 
 ## Recommendations
 
@@ -279,35 +270,27 @@ Actionable Insights:
 
 ![Actionable insights](assets/images/actionable_insights)
 
-1. **Dan Rhodes** is the best YouTube channel to collaborate with if we want to **maximize visbility** because this channel has the **most YouTube subscribers in the UK**.
+1. From 2021 to 2022, there were **more riders** and thus a higher revenue and profit showing that the scheme is growing. **Revenue doubled from $5M to $10M in a year.**
    
-2. Although GRM Daily, Man City and Yogcasts are regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort, as the potential return on investments is significantly lower compared to the other channels.
+2. Between the two years, the **most profitable** times were during **rush hour in the morning and evening** during the week and during the **afternoon at the weekends**. **Loyalty promotions** should be applied during these times to maintain and increase custom. **Early Bird Discounts** could be applied during weekend mornings to maximise profit during these quiet times.
    
-3. **Mister Max** is the best YouTuber to collaborate with if we're interested in **maximizing reach**, but collaborating with **DanTDM and Dan Rhodes** may be better **long-term options** considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
+3. Autum and summer are the most profitable times of year with spring being the least profitable time. **Easter promotions** should be applied to increase sales during this season.
    
-4. The top 3 channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes based on this analysis, because they attract the most engagement on their channels consistently.
+4. The majority of customers are registered with the scheme however **joining deals could be implemented** to further increase the number of registered users and thus increasing useful data.
 
 
 
 ## Potential ROI
 What ROI is expected based on the actionable insights?
 
-1. Setting up a **product placement** deal with **Dan Rhodes** would make the client a net profit of **£1,065,000 per video**.
-2. An **influencer marketing contract** with **Mister Max** can see the client generate a net profit of **£1,276,000**.
-3. If we go with a **product placement campaign** with **DanTDM**, this could  generate the client approximately **£484,000 per video**. If we advance with an **influencer marketing campaign** deal instead, this would make the client a one-off net profit of **£404,000**.
-4. **NoCopyrightSounds product placement** could profit the client **£642,000 per video** too (which is worth considering). 
+1.**Increasing the price of the hire by $1 (25%)** would see a large jump in revenue. This should be a focus as the **rider increase from 2021 to 2022 was 806,473 (64.8%)**, showing a clear increase in demand.
 
+2. There is a **price elasticity of 2.56** so the price of the hire could be **increased by 10-15% ($5.49 - $5.74)**.
 
-## Course of Action
+3. **In-depth market research** of riders, focusing on satisfaction, demographics of riders and even income could help push promotions and give more valuable insights that can be used for promotional campaigns.
 
-Based on the analysis, the best channel to partner with on a **product placement** deal would be **Dan Rhodes**.
-This initial deal will be assessed againsts the marketing teams initial forecasting. If the milestones are met throughout the deal, then future partnerships with DanTDM, Mister Max and NoCopyrightSounds can be advanced.
+4. A **segment price strategy** could be implemented based on **casual vs registered riders**.
 
-Actioning the Insights:
-
-1. Reach out to the teams behind each of these channels, starting with Dan Rhodes.
-2. Negotiate contracts within the budgets allocated to each marketing campaign.
-3. Kick off the campaigns and track each of their performances against the KPIs.
-4. Review how the campaigns have gone, gather insights and optimize based on feedback from converted customers and each channel's audiences.
+5. **A price increase should be considered** and monitored through customer feedback. Based on immediate customer feedback and sales data, these price changes may have to be altered.
 
 
